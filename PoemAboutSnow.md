@@ -3,8 +3,6 @@
 
     By Pamela S. Vining, (J. C. Yule)
 
-
-
 _         Over the mountains, under the snow
     Lieth a valley cold and low,
     'Neath a white, immovable pall,
