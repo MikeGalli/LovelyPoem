@@ -95,3 +95,6 @@ _        I know it is Sorrow's baptism stern
     For the chastening love of departed years, - 
     For hiding my idols so low - so low - 
     Over the mountains, under the snow.
+
+[See the original poem!](http://www.public-domain-poetry.com/pamela-s-vining/under-the-snow-34462)
+
