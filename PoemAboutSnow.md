@@ -25,7 +25,7 @@ _         Over the mountains, under the snow
     While over all shone the eye of Love
     In the violet-tinted heavens above.
 
-        And through that valley ran veins of gold,
+_        And through that valley ran veins of gold,
     And the * rivers o'er beds of amber rolled; - 
     There were pearls in the white sands thickly sown, *
     And rocks that diamond-crusted shone; - 
@@ -43,7 +43,7 @@ _         Over the mountains, under the snow
     And fount and forest, and bower and stream,
     Were shrouded all from his pallid beam.
 
-        And there, deep-hidden under the snow,
+_        And there, deep-hidden under the snow,
     Is buried the wealth of the long-ago - 
     Pearls and diamonds, veins of gold,
     Priceless treasures of worth untold,
@@ -67,7 +67,7 @@ _         Over the mountains, under the snow
     And the wind their requiem sounds o'er and o'er,
     In the oft-repeated **"no more - no more"**
 
-        "No more - no more!" I shall ever hear
+_        "No more - no more!" I shall ever hear
     That funeral dirge in its meanings drear,
     But I may not linger with faltering tread
     Anear my treasures - anear my dead.
@@ -83,7 +83,7 @@ _         Over the mountains, under the snow
     And sweet home-voices come soft and low,
     Half drowning that requiem's dirge-like flow.
 
-        I know it is Sorrow's baptism stern
+_        I know it is Sorrow's baptism stern
     That hath given me thus for my home to yearn, - 
     That has quickened my ear to the tender call
     That down from the jasper heights doth fall, - 
