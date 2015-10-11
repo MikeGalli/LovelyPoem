@@ -26,8 +26,8 @@
     In the violet-tinted heavens above.
 
         And through that valley ran veins of gold,
-    And the *rivers o'er beds of amber rolled; - 
-    There were pearls in the white sands thickly sown,*
+    And the * rivers o'er beds of amber rolled; - 
+    There were pearls in the white sands thickly sown, *
     And rocks that diamond-crusted shone; - 
     All richest fruitage, all rarest flowers,
     All sweetest music of summer-bowers,
