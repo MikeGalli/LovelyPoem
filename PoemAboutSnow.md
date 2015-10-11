@@ -26,8 +26,8 @@
     In the violet-tinted heavens above.
 
         And through that valley ran veins of gold,
-    And the rivers o'er beds of amber rolled; - 
-    There were pearls in the white sands thickly sown,
+    And the *rivers o'er beds of amber rolled; - 
+    There were pearls in the white sands thickly sown,*
     And rocks that diamond-crusted shone; - 
     All richest fruitage, all rarest flowers,
     All sweetest music of summer-bowers,
@@ -65,7 +65,7 @@
     White hands folded o'er marble breasts,
     Each under the mantling snow-drift rests;
     And the wind their requiem sounds o'er and o'er,
-    In the oft-repeated "no more - no more"
+    In the oft-repeated **"no more - no more"**
 
         "No more - no more!" I shall ever hear
     That funeral dirge in its meanings drear,
