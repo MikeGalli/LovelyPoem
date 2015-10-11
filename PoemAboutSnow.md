@@ -25,7 +25,7 @@ _         Over the mountains, under the snow
     While over all shone the eye of Love
     In the violet-tinted heavens above.
 
-_        And through that valley ran veins of gold,
+_        ## And through that valley ran veins of gold,##
     And the * rivers o'er beds of amber rolled; - 
     There were pearls in the white sands thickly sown, *
     And rocks that diamond-crusted shone; - 
