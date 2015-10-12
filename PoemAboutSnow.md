@@ -11,7 +11,7 @@ _         Over the mountains, under the snow
     Sweeps with funeral music past.
 
 ##        Yet was that valley not always so,
-    For I trod its summer-paths long ago;
+_    For I trod its summer-paths long ago;
     And I gathered flowers of fairest dyes
     Where now the snow-drift heaviest lies;
     And I drank from rills that, with murmurous song,
@@ -24,7 +24,7 @@ _         Over the mountains, under the snow
     In the violet-tinted heavens above.
 
 ##        And through that valley ran veins of gold,##
-    And the * rivers o'er beds of amber rolled; - 
+*    And the * rivers o'er beds of amber rolled; - 
     There were pearls in the white sands thickly sown, *
     And rocks that diamond-crusted shone; - 
     All richest fruitage, all rarest flowers,
