@@ -10,7 +10,7 @@ _         Over the mountains, under the snow
     And soundless, save when the wintry blast
     Sweeps with funeral music past.
 
->        ##Yet was that valley not always so,
+>  ##      Yet was that valley not always so,
     For I trod its summer-paths long ago;
     And I gathered flowers of fairest dyes
     Where now the snow-drift heaviest lies;
