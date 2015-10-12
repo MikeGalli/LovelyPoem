@@ -10,7 +10,7 @@ _         Over the mountains, under the snow
     And soundless, save when the wintry blast
     Sweeps with funeral music past.
 
->  ##      Yet was that valley not always so,
+##        Yet was that valley not always so,
     For I trod its summer-paths long ago;
     And I gathered flowers of fairest dyes
     Where now the snow-drift heaviest lies;
@@ -23,7 +23,7 @@ _         Over the mountains, under the snow
     While over all shone the eye of Love
     In the violet-tinted heavens above.
 
-_        ## And through that valley ran veins of gold,##
+##        And through that valley ran veins of gold,##
     And the * rivers o'er beds of amber rolled; - 
     There were pearls in the white sands thickly sown, *
     And rocks that diamond-crusted shone; - 
