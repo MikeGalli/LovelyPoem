@@ -32,7 +32,7 @@ _    For I trod its summer-paths long ago;
     All sounds the softest, all sights most fair,
     Made Earth a paradise everywhere.
 
-        Over the mountains, under the snow
+    Over the mountains, under the snow
     Lieth that valley cold and low;
     There came no slowly-consuming blight,
     But the snow swept silently down at night,
